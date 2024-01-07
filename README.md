@@ -1,7 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Vitalii!</h1>
 
 <h3 align="center">Frontend developer from Ukraine with almost 5 years experience</h3>
-<br>
+<p align="center">
+  <a href='https://www.codewars.com/users/VitZkh'><img src="https://www.codewars.com/users/VitZkh/badges/small" alt="CodeWars"/></a>
+</p>
 
 ## 📖 About Me
 
