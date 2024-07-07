@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 
-- 🔭 I’m working on [Generate ReadMe](https://zakharchuk42.github.io/readme-charm/) right now
+- 🔭 I’m working on [Cheat Sheets Git](https://github.com/zakharchuk42/cheat-sheets) right now, you can visit site [Cheat Sheets Site](https://cheat-sh.vercel.app)
 
 - 🌱 I’m currently learning **all, which connected with JS**
 
